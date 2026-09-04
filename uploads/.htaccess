@@ -1,0 +1,5 @@
+# Allow these files to be viewed directly (they're work-sample images),
+# but prevent any script execution inside the uploads folder.
+<FilesMatch "\.(php|phtml|php\d)$">
+    Require all denied
+</FilesMatch>
