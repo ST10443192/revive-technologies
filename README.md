@@ -1,6 +1,10 @@
 # Revive Technologies
 ### Integrated Event Decorating and Freelance Management System
 
+VIDEO LINK:
+https://youtu.be/m8EbPehZJfE?si=IZQXsqPmNKAamAwY
+
+
 A full PHP + MySQL web application built to match your Figma design:
 a public marketing site, a Client portal, a Freelancer portal, and an Admin portal.
 
